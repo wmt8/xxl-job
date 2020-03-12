@@ -1,239 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3d51b9ea-fd57-4a6a-be46-5bbac8fa8eaa" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/Administrator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/enjoy_schedule.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_1_11.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_1_11.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_caucho_hessian_4_0_51.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_3_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_8_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_8_11.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_8_11_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_mchange_c3p0_0_9_5_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_mchange_mchange_commons_java_0_2_11.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_mail_javax_mail_1_5_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_xuxueli_xxl_job_core_2_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_xuxueli_xxl_rpc_core_1_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_zaxxer_HikariCP_java6_2_3_13.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_activation_activation_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_validation_validation_api_1_1_0_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_47.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_accessors_smart_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_json_smart_2_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_collections4_4_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_exec_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_8_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_8_5_34.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_8_5_34.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_8_5_34.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_tomcat_annotations_api_8_5_34.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_tomcat_jdbc_8_5_34.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_tomcat_juli_8_5_34.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_2_6_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_groovy_groovy_2_4_15.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_client_9_2_26_v20180806.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_http_9_2_26_v20180806.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_io_9_2_26_v20180806.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_server_9_2_26_v20180806.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_util_9_2_26_v20180806.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_freemarker_freemarker_2_3_28.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_validator_5_3_6_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_2_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_1_10_19.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_4_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_3_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_autoconfigure_1_3_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_starter_1_3_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_5_0_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_quartz_scheduler_quartz_2_3_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_4_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_25.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_25.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_log4j_over_slf4j_1_7_25.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_1_5_17_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_1_5_17_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_1_5_17_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_freemarker_1_5_17_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_1_5_17_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_1_5_17_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_mail_1_5_17_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_1_5_17_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_1_5_17_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_1_5_17_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_1_5_17_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_1_5_17_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_3_20_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_3_20_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_3_20_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_4_3_20_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_3_20_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_3_20_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_4_3_20_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_4_3_20_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_4_3_20_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_4_3_20_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_4_3_20_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_17.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="3d51b9ea-fd57-4a6a-be46-5bbac8fa8eaa" name="Default" comment="提交任务项目">
       <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/db/tables_xxl_job.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/xxl项目部署方法.doc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/~$l项目部署方法.doc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xxl-job-admin/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xxl-job-admin/src/main/java/com/xxl/job/admin/XxlJobAdminApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xxl-job-admin/src/main/java/com/xxl/job/admin/controller/IndexController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xxl-job-admin/src/main/java/com/xxl/job/admin/controller/JobApiController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xxl-job-admin/src/main/java/com/xxl/job/admin/controller/JobCodeController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xxl-job-admin/src/main/java/com/xxl/job/admin/controller/JobGroupController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xxl-job-admin/src/main/java/com/xxl/job/admin/controller/JobInfoController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xxl-job-admin/src/main/java/com/xxl/job/admin/controller/JobLogController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xxl-job-admin/src/main/java/com/xxl/job/admin/controller/annotation/PermessionLimit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xxl-job-admin/src/main/java/com/xxl/job/admin/controller/interceptor/CookieInterceptor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xxl-job-admin/src/main/java/com/xxl/job/admin/controller/interceptor/PermissionInterceptor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xxl-job-admin/src/main/java/com/xxl/job/admin/controller/interceptor/WebMvcConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xxl-job-admin/src/main/java/com/xxl/job/admin/controller/resolver/WebExceptionResolver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xxl-job-admin/src/main/java/com/xxl/job/admin/core/conf/XxlJobAdminConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xxl-job-admin/src/main/java/com/xxl/job/admin/core/conf/XxlJobDynamicSchedulerConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xxl-job-admin/src/main/java/com/xxl/job/admin/core/jobbean/RemoteHttpJobBean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xxl-job-admin/src/main/java/com/xxl/job/admin/core/model/XxlJobGroup.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xxl-job-admin/src/main/java/com/xxl/job/admin/core/model/XxlJobInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xxl-job-admin/src/main/java/com/xxl/job/admin/core/model/XxlJobLog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xxl-job-admin/src/main/java/com/xxl/job/admin/core/model/XxlJobLogGlue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xxl-job-admin/src/main/java/com/xxl/job/admin/core/model/XxlJobRegistry.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xxl-job-admin/src/main/java/com/xxl/job/admin/core/route/ExecutorRouteStrategyEnum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xxl-job-admin/src/main/java/com/xxl/job/admin/core/route/ExecutorRouter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xxl-job-admin/src/main/java/com/xxl/job/admin/core/route/strategy/ExecutorRouteBusyover.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xxl-job-admin/src/main/java/com/xxl/job/admin/core/route/strategy/ExecutorRouteConsistentHash.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xxl-job-admin/src/main/java/com/xxl/job/admin/core/route/strategy/ExecutorRouteFailover.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xxl-job-admin/src/main/java/com/xxl/job/admin/core/route/strategy/ExecutorRouteFirst.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xxl-job-admin/src/main/java/com/xxl/job/admin/core/route/strategy/ExecutorRouteLFU.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xxl-job-admin/src/main/java/com/xxl/job/admin/core/route/strategy/ExecutorRouteLRU.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xxl-job-admin/src/main/java/com/xxl/job/admin/core/route/strategy/ExecutorRouteLast.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xxl-job-admin/src/main/java/com/xxl/job/admin/core/route/strategy/ExecutorRouteRandom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xxl-job-admin/src/main/java/com/xxl/job/admin/core/route/strategy/ExecutorRouteRound.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xxl-job-admin/src/main/java/com/xxl/job/admin/core/schedule/XxlJobDynamicScheduler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xxl-job-admin/src/main/java/com/xxl/job/admin/core/thread/JobFailMonitorHelper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xxl-job-admin/src/main/java/com/xxl/job/admin/core/thread/JobRegistryMonitorHelper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xxl-job-admin/src/main/java/com/xxl/job/admin/core/thread/JobTriggerPoolHelper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xxl-job-admin/src/main/java/com/xxl/job/admin/core/trigger/TriggerTypeEnum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xxl-job-admin/src/main/java/com/xxl/job/admin/core/trigger/XxlJobTrigger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xxl-job-admin/src/main/java/com/xxl/job/admin/core/util/CookieUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xxl-job-admin/src/main/java/com/xxl/job/admin/core/util/FtlUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xxl-job-admin/src/main/java/com/xxl/job/admin/core/util/I18nUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xxl-job-admin/src/main/java/com/xxl/job/admin/core/util/LocalCacheUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xxl-job-admin/src/main/java/com/xxl/job/admin/dao/XxlJobGroupDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xxl-job-admin/src/main/java/com/xxl/job/admin/dao/XxlJobInfoDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xxl-job-admin/src/main/java/com/xxl/job/admin/dao/XxlJobLogDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xxl-job-admin/src/main/java/com/xxl/job/admin/dao/XxlJobLogGlueDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xxl-job-admin/src/main/java/com/xxl/job/admin/dao/XxlJobRegistryDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xxl-job-admin/src/main/java/com/xxl/job/admin/service/XxlJobService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xxl-job-admin/src/main/java/com/xxl/job/admin/service/impl/AdminBizImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xxl-job-admin/src/main/java/com/xxl/job/admin/service/impl/XxlJobServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xxl-job-admin/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xxl-job-admin/src/main/resources/i18n/message.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xxl-job-admin/src/main/resources/i18n/message_en.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xxl-job-admin/src/main/resources/logback.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xxl-job-admin/src/main/resources/mybatis-mapper/XxlJobGroupMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xxl-job-admin/src/main/resources/mybatis-mapper/XxlJobInfoMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xxl-job-admin/src/main/resources/mybatis-mapper/XxlJobLogGlueMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xxl-job-admin/src/main/resources/mybatis-mapper/XxlJobLogMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xxl-job-admin/src/main/resources/mybatis-mapper/XxlJobRegistryMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xxl-job-admin/src/main/resources/quartz.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xxl-job-admin/src/main/resources/static/adminlte/bower_components/Ionicons/css/ionicons.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xxl-job-admin/src/main/resources/static/adminlte/bower_components/Ionicons/fonts/ionicons.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xxl-job-admin/src/main/resources/static/adminlte/bower_components/Ionicons/fonts/ionicons.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xxl-job-admin/src/main/resources/static/adminlte/bower_components/Ionicons/fonts/ionicons.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xxl-job-admin/src/main/resources/static/adminlte/bower_components/Ionicons/fonts/ionicons.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xxl-job-admin/src/main/resources/static/adminlte/bower_components/PACE/pace.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xxl-job-admin/src/main/resources/static/adminlte/bower_components/PACE/themes/blue/pace-theme-flash.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xxl-job-admin/src/main/resources/static/adminlte/bower_components/bootstrap-daterangepicker/daterangepicker.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xxl-job-admin/src/main/resources/static/adminlte/bower_components/bootstrap-daterangepicker/daterangepicker.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xxl-job-admin/src/main/resources/static/adminlte/bower_components/bootstrap/css/bootstrap.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xxl-job-admin/src/main/resources/static/adminlte/bower_components/bootstrap/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xxl-job-admin/src/main/resources/static/adminlte/bower_components/bootstrap/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xxl-job-admin/src/main/resources/static/adminlte/bower_components/bootstrap/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xxl-job-admin/src/main/resources/static/adminlte/bower_components/bootstrap/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xxl-job-admin/src/main/resources/static/adminlte/bower_components/bootstrap/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xxl-job-admin/src/main/resources/static/adminlte/bower_components/bootstrap/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xxl-job-admin/src/main/resources/static/adminlte/bower_components/bootstrap/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xxl-job-admin/src/main/resources/static/adminlte/bower_components/datatables.net-bs/css/dataTables.bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xxl-job-admin/src/main/resources/static/adminlte/bower_components/datatables.net-bs/js/dataTables.bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xxl-job-admin/src/main/resources/static/adminlte/bower_components/datatables.net/js/jquery.dataTables.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xxl-job-admin/src/main/resources/static/adminlte/bower_components/fastclick/fastclick.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xxl-job-admin/src/main/resources/static/adminlte/bower_components/font-awesome/css/font-awesome.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xxl-job-admin/src/main/resources/static/adminlte/bower_components/font-awesome/css/font-awesome.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xxl-job-admin/src/main/resources/static/adminlte/bower_components/font-awesome/fonts/FontAwesome.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xxl-job-admin/src/main/resources/static/adminlte/bower_components/font-awesome/fonts/fontawesome-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xxl-job-admin/src/main/resources/static/adminlte/bower_components/font-awesome/fonts/fontawesome-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xxl-job-admin/src/main/resources/static/adminlte/bower_components/font-awesome/fonts/fontawesome-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xxl-job-admin/src/main/resources/static/adminlte/bower_components/font-awesome/fonts/fontawesome-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xxl-job-admin/src/main/resources/static/adminlte/bower_components/font-awesome/fonts/fontawesome-webfont.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xxl-job-admin/src/main/resources/static/adminlte/bower_components/jquery-slimscroll/jquery.slimscroll.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xxl-job-admin/src/main/resources/static/adminlte/bower_components/jquery/jquery.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xxl-job-admin/src/main/resources/static/adminlte/bower_components/moment/moment.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xxl-job-admin/src/main/resources/static/adminlte/dist/css/AdminLTE.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xxl-job-admin/src/main/resources/static/adminlte/dist/css/skins/_all-skins.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xxl-job-admin/src/main/resources/static/adminlte/dist/js/adminlte.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xxl-job-admin/src/main/resources/static/adminlte/plugins/iCheck/icheck.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xxl-job-admin/src/main/resources/static/adminlte/plugins/iCheck/square/blue.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xxl-job-admin/src/main/resources/static/adminlte/plugins/iCheck/square/blue.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xxl-job-admin/src/main/resources/static/adminlte/plugins/iCheck/square/blue@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xxl-job-admin/src/main/resources/static/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xxl-job-admin/src/main/resources/static/js/common.1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xxl-job-admin/src/main/resources/static/js/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xxl-job-admin/src/main/resources/static/js/jobcode.index.1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xxl-job-admin/src/main/resources/static/js/jobgroup.index.1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xxl-job-admin/src/main/resources/static/js/jobinfo.index.1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xxl-job-admin/src/main/resources/static/js/joblog.detail.1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xxl-job-admin/src/main/resources/static/js/joblog.index.1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xxl-job-admin/src/main/resources/static/js/login.1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xxl-job-admin/src/main/resources/static/plugins/codemirror/addon/hint/anyword-hint.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xxl-job-admin/src/main/resources/static/plugins/codemirror/addon/hint/show-hint.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xxl-job-admin/src/main/resources/static/plugins/codemirror/addon/hint/show-hint.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xxl-job-admin/src/main/resources/static/plugins/codemirror/lib/codemirror.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xxl-job-admin/src/main/resources/static/plugins/codemirror/lib/codemirror.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xxl-job-admin/src/main/resources/static/plugins/codemirror/mode/clike/clike.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xxl-job-admin/src/main/resources/static/plugins/codemirror/mode/javascript/javascript.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xxl-job-admin/src/main/resources/static/plugins/codemirror/mode/php/php.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xxl-job-admin/src/main/resources/static/plugins/codemirror/mode/powershell/powershell.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xxl-job-admin/src/main/resources/static/plugins/codemirror/mode/python/python.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xxl-job-admin/src/main/resources/static/plugins/codemirror/mode/shell/shell.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xxl-job-admin/src/main/resources/static/plugins/echarts/echarts.common.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xxl-job-admin/src/main/resources/static/plugins/jquery/jquery.cookie.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xxl-job-admin/src/main/resources/static/plugins/jquery/jquery.validate.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xxl-job-admin/src/main/resources/static/plugins/layer/layer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xxl-job-admin/src/main/resources/static/plugins/layer/theme/default/icon-ext.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xxl-job-admin/src/main/resources/static/plugins/layer/theme/default/icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xxl-job-admin/src/main/resources/static/plugins/layer/theme/default/layer.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xxl-job-admin/src/main/resources/static/plugins/layer/theme/default/loading-0.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xxl-job-admin/src/main/resources/static/plugins/layer/theme/default/loading-1.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xxl-job-admin/src/main/resources/static/plugins/layer/theme/default/loading-2.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xxl-job-admin/src/main/resources/templates/common/common.exception.ftl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xxl-job-admin/src/main/resources/templates/common/common.macro.ftl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xxl-job-admin/src/main/resources/templates/help.ftl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xxl-job-admin/src/main/resources/templates/index.ftl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xxl-job-admin/src/main/resources/templates/jobcode/jobcode.index.ftl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xxl-job-admin/src/main/resources/templates/jobgroup/jobgroup.index.ftl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xxl-job-admin/src/main/resources/templates/jobinfo/jobinfo.index.ftl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xxl-job-admin/src/main/resources/templates/joblog/joblog.detail.ftl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xxl-job-admin/src/main/resources/templates/joblog/joblog.index.ftl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xxl-job-admin/src/main/resources/templates/login.ftl" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/xxl-job-admin/target/admin.jar" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/xxl-job-admin/target/admin.jar.original" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/xxl-job-admin/target/classes/application.properties" afterDir="false" />
@@ -382,8 +151,6 @@
       <change afterPath="$PROJECT_DIR$/xxl-job-admin/target/maven-archiver/pom.properties" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/xxl-job-admin/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/xxl-job-admin/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xxl-job-admin/xxl-job-admin.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xxl-job.iml" afterDir="false" />
     </list>
     <ignored path="xxl-job.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -744,12 +511,27 @@
       <updated>1547717117962</updated>
       <workItem from="1547717119406" duration="351000" />
       <workItem from="1583990602541" duration="1157000" />
-      <workItem from="1584002252872" duration="417000" />
+      <workItem from="1584002252872" duration="698000" />
     </task>
+    <task id="LOCAL-00001" summary="提交任务项目">
+      <created>1584002679435</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1584002679435</updated>
+    </task>
+    <task id="LOCAL-00002" summary="提交任务项目">
+      <created>1584002875599</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1584002875599</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1925000" />
+    <option name="totallyTimeSpent" value="2206000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
