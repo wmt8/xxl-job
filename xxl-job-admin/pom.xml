@@ -30,7 +30,7 @@
 		<commons-lang3.version>3.8.1</commons-lang3.version>
 
 		<groovy-all.version>2.5.3</groovy-all.version>
-		<quartz.version>2.3.0</quartz.version>
+		<quartz.version>2.3.2</quartz.version>
 
 		<jackson.version>2.9.7</jackson.version>
 		<jetty-server.version>9.2.26.v20180806</jetty-server.version>
