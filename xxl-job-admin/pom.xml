@@ -33,7 +33,7 @@
 		<quartz.version>2.3.0</quartz.version>
 
 		<jackson.version>2.9.7</jackson.version>
-		<jetty-server.version>9.2.26.v20180806</jetty-server.version>
+		<jetty-server.version>9.4.41.v20210516</jetty-server.version>
 
 	</properties>
 
